@@ -2,4 +2,3 @@ pyrogram
 colorama
 requests
 bs4
-tgcrypto
